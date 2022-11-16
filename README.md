@@ -8,7 +8,7 @@ In case you want to try the Patroni + pgBackRest setup, you need 3 VMs for the p
 
 1. You need to adjust the setup_patroni_node.txt to your needs (IP address aso), further you need to change the IP addresses/node name if you setup the second and the third node.
 2. Keep in mind, that the etcd setup must be done quite simultanious to make sure that all nodes see each other.
-3. Once all three patroni nodes are up and running. You can setup the pgbackrest repository server as well. 
+3. Once all three patroni nodes are up and running. You can setup the pgbackrest repository server as well (setup_backup_node.txt). 
 
 In case of any errors during the setup. Just check the configuration. Maybe there is a typo somewhere ;-)
 
