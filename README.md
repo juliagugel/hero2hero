@@ -16,4 +16,4 @@ Please keep in mind that this playbooks use the DMK of dbi services as well. As 
 
 If you want to bootstrap a complete patroni cluster from pgBackRest, you can find the instruction for that on my blog: https://www.dbi-services.com/blog/bootstrap-patroni-cluster-from-pgbackrest-backup/
 
-If you want to recreate a node from pgBackRest, you can find the instruction on my blog: https://www.dbi-services.com/blog/recreate-a-patroni-node-from-pgbackrest-backup
+If you want to recreate a node from pgBackRest, you can find the instruction on my blog: https://www.dbi-services.com/blog/recreate-a-patroni-node-using-pgbackrest
